@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ganapati1",
+      "email": "chgana1@gmail.com",
+      "phone": 9876543211
+    },
+    {
+      "id": 2,
+      "name": "ganapati2",
+      "email": "chgana2@gmail.com",
+      "phone": 9876543212
+    },
+    {
+      "name": "sagarbabu challa",
+      "email": "sagarbabu@gmail.com",
+      "phone": "8965432067",
+      "id": 7
+    },
+    {
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "phone": "9876543210",
+      "id": 9
+    },
+    {
+      "name": "venkichalla",
+      "email": "venkichalla@gmail.com",
+      "phone": "8899007766",
+      "id": 10
+    },
+    {
+      "name": "Gaanapati",
+      "email": "gana20@gmail.com",
+      "phone": "98877665",
+      "id": 11
+    }
+  ],
+  "bookings": [
+    {
+      "sno": 1,
+      "Dateofbooking": "22-12-2022",
+      "products": "MI Mobile"
+    },
+    {
+      "sno": 2,
+      "Dateofbooking": "21-12-2022",
+      "products": "MI Mobile"
+    }
+  ],
+  "admins": [
+    {
+      "sno": 1,
+      "uname": "gana",
+      "mobile": 9876543221
+    },
+    {
+      "sno": 2,
+      "uname": "gana2",
+      "mobile": 9876543222
+    },
+    {
+      "sno": 3,
+      "uname": "gana3",
+      "mobile": 9876543223
+    }
+  ]
+}
